@@ -34,14 +34,6 @@ Ikuti langkah-langkah berikut biar semuanya berjalan dengan lancar 🚀:
 
 ---
 
-## 📸 Screenshot (Opsional)
-
-Kamu bisa menambahkan screenshot seperti ini (jika ada):
-```md
-![Dashboard Mahasiswa](screenshot/dashboard.png)
-```
-
----
 
 ## 📬 Catatan Tambahan
 
@@ -56,4 +48,4 @@ Proyek ini bebas digunakan untuk pembelajaran.
 
 ---
 
-> Dibuat dengan semangat ngoding tinggi oleh Tuan Rendy yang agung 👑
+> Dibuat dengan semangat ngoding tinggi oleh King Rendy 👑
